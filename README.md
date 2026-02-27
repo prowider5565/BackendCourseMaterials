@@ -1,5 +1,4 @@
-### Salom, ushbu sahifa *Python Backend Dasturlash Kursi* davomida ishlatilinadigan darlik, materiallar va havolalar saqlanadi. Ushbu kurs bo'yicha tajribali dasturchi va o'qituvchi Abdusamad Abdullaxanov dars olib boradi.
-
+### Salom, ushbu sahifa *Python Backend Dasturlash Kursi* davomida ishlatilinadigan darslik, materiallar va havolalar saqlanadi. Ushbu kurs bo'yicha tajribali dasturchi va o'qituvchi Abdusamad Abdullaxanov dars olib boradi.
 
 ### Quyidagi linklarda har dars uchun Dasturlash kursi davomida kerak bo'ladigan materiallar to'plami joylashgan.
 
@@ -10,10 +9,6 @@
 [Dars 1 - Tanishuv, Dasturlashga kirish](foundation/lesson1.md)
 
 Dars 2 -
-
-
-
-
 
 # Dars jarayoni haqida tushuncha
 
@@ -27,3 +22,5 @@ Dars jarayoni quyidagi dars jadvali bo'yicha olib boriladi.
 * Har bir o'quvchini o'zlashtirishi nazorat qilinadi, o'rganib chiqiladi, bo'sh nuqtalarni to'ldiriladi **(20 minut)**
 * O'qituvchi bilan birgalikda yangi mavzu bo'yicha amaliy mashg'ulot qilinadi, bu o'quvchilarni muloqotga undaydi, mantiqiy fikrlashini rivojlantiradi **(20 minut)**
 * Darsni oxirida darsga yoki yangi mavzuga doir mashg'ulot (o'yin, bellashuv, savol-javob) **(10 minut)**
+
+
