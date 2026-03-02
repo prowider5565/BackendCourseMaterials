@@ -6,9 +6,10 @@
 
 ## Birinchi oy - Introduction to Python | Beginner level
 
-[Dars 1 - Tanishuv, Dasturlashga kirish](foundation/lesson1.md)
+[Dars 1 - Python Dasturlash tili haqida](foundation/lesson1.md)
 
 Dars 2 -
+
 
 # Dars jarayoni haqida tushuncha
 
@@ -22,5 +23,4 @@ Dars jarayoni quyidagi dars jadvali bo'yicha olib boriladi.
 * Har bir o'quvchini o'zlashtirishi nazorat qilinadi, o'rganib chiqiladi, bo'sh nuqtalarni to'ldiriladi **(20 minut)**
 * O'qituvchi bilan birgalikda yangi mavzu bo'yicha amaliy mashg'ulot qilinadi, bu o'quvchilarni muloqotga undaydi, mantiqiy fikrlashini rivojlantiradi **(20 minut)**
 * Darsni oxirida darsga yoki yangi mavzuga doir mashg'ulot (o'yin, bellashuv, savol-javob) **(10 minut)**
-
 
