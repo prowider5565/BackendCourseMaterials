@@ -56,6 +56,17 @@ Ushbu kodni python *interpretatori* orqali ishga tushirilganda kompyuterda bizga
 
 ![Understanding Python Code Flow From Source to Execution : | by Azan | Medium](https://miro.medium.com/v2/resize:fit:1400/1*uvwXR2gF-GzfKadBcdotrQ.gif)
 
+# Vazifa
+
+Python dasturlash tilida yozilgan bitta haqiqiy dastur yoki website topish. Ushbu dastur yoki website'da nima uchun aynan python dasturlash tili ishlatilgani sababi, uning plus va minus tomonlari haqida internetda o'rganib chiqish. Bu vazifa orqali python haqida yaqinroq tanishish imkonini beradi. Topshiriq tekst ko'rinishida javobni yoritilgan bo'lishi kerak.
+Topshiriq javobi quyidagi savollarga javob berishi kerak:
+
+* Python dasturlash tilida qaysi dastur yoki website yozilgan?
+* Unda Python ishlatilishining 3 ta sababi
+* O'z fikringizga ko'ra python bu loyiha uchun to'gri tanlovmi? Sababini keltiring.
+
+Ushbu javob guruh telegram gruppasidagi **Vazifalar** bo'limiga jo'natilishi lozim.
+*(Telegram guruhdagi boshqa o'quvchilarning topgan dastur misolini ishlatish mumkin emas)*.
 
  [Keyingi Dars](lesson2.md)
 [Asosiy sahifa](../README.md)
