@@ -36,7 +36,6 @@ Dasturlash tillariga misol:
 
 ## Python nima?
 
-
 **Python** — bu yuqori darajadagi, o‘qilishi oson va kuchli **dasturlash tili** bo‘lib, u 1991-yilda **[Guido van Rossum](https://en.wikipedia.org/wiki/Guido_van_Rossum)** tomonidan yaratilgan. Pythonning asosiy maqsadi — dasturchiga murakkab masalalarni **kam kod, aniq sintaksis va yuqori samaradorlik** bilan yechish imkonini berish hisoblanadi.
 
 ### Python Dasturlash tilini kompyuterga o'rnatish
@@ -48,11 +47,10 @@ Python dasturlash tilida kod yozish uchun avval, python ilovasini kompyuterga yu
 ## Python dasturlash tilida sodda kod
 
 Quyidagi rasmda python dasturlash tilida yozilgan kod ko'rsatilgan.
+<br>
 ![1772535607583](images/lesson1/1772535607583.png)
 Ushbu kodni python *interpretatori* orqali ishga tushirilganda kompyuterda bizga ko'rinmas bir nechta qadamlar bajariladi.
 ![Understanding Python Code Flow From Source to Execution : | by Azan | Medium](https://miro.medium.com/v2/resize:fit:1400/1*uvwXR2gF-GzfKadBcdotrQ.gif)
-
-
 
 [Keyingi Dars](lesson2.md)
 
