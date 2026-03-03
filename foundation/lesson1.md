@@ -48,15 +48,15 @@ Python dasturlash tilida kod yozish uchun avval, python ilovasini kompyuterga yu
 
 ### Quyidagi rasmda python dasturlash tilida yozilgan kod ko'rsatilgan.
 
-![1772535607583](images/lesson1/1772535607583.png)
 Ushbu kodni python *interpretatori* orqali ishga tushirilganda kompyuterda bizga ko'rinmas bir nechta qadamlar bajariladi.
-<br>
-<br>
+
+![1772535607583](images/lesson1/1772535607583.png)
+
+### Quyidagi rasmda python dasturi ishga tushishdagi qadamlar ko'rsatilgan
+
 ![Understanding Python Code Flow From Source to Execution : | by Azan | Medium](https://miro.medium.com/v2/resize:fit:1400/1*uvwXR2gF-GzfKadBcdotrQ.gif)
 
-### Python dasturi ishga tushishgandagi atamalarga ta'rif
 
-[Keyingi Dars](lesson2.md)
-
+ [Keyingi Dars](lesson2.md)
 [Asosiy sahifa](../README.md)
 
