@@ -46,16 +46,15 @@ Python dasturlash tilida kod yozish uchun avval, python ilovasini kompyuterga yu
 
 ## Python dasturlash tilida sodda kod
 
-Quyidagi rasmda python dasturlash tilida yozilgan kod ko'rsatilgan.
-<br>
-<br>
+### Quyidagi rasmda python dasturlash tilida yozilgan kod ko'rsatilgan.
+
 ![1772535607583](images/lesson1/1772535607583.png)
-<br>
-<br>
 Ushbu kodni python *interpretatori* orqali ishga tushirilganda kompyuterda bizga ko'rinmas bir nechta qadamlar bajariladi.
 <br>
 <br>
 ![Understanding Python Code Flow From Source to Execution : | by Azan | Medium](https://miro.medium.com/v2/resize:fit:1400/1*uvwXR2gF-GzfKadBcdotrQ.gif)
+
+### Python dasturi ishga tushishgandagi atamalarga ta'rif
 
 [Keyingi Dars](lesson2.md)
 
