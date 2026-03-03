@@ -17,7 +17,7 @@ So'ng, uning ichiga kirib, yangi fayl ochib olamiz, va fayl formatini **.py** qi
 ![1772538473330](images/lesson2/1772538473330.png)
 
 ### VS Code Dasturini o'rnatish
-
+![VS Code ko'rinishi](/foundation/images/lesson2/image.png)
 #### VS Code nima?
 
 **VS Code** - Visual Studio Code — bu **Microsoft** tomonidan yaratilgan, dasturchilar orasida eng mashhur **kod muharriri** (code editor) hisoblanadi. U bepul, yengil va juda ko'p dasturlash tillarini, jumladan Pythonni ham qo'llab-quvvatlaydi. VS Code'da kod yozish, xatolarni topish va dasturni ishga tushirish mumkin. [Rasmiy link](https://code.visualstudio.com/download) orqali VS code dasturini yuklab olamiz va kompyuterimizga o'rnatamiz
