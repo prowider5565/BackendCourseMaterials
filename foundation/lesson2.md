@@ -26,7 +26,7 @@ So'ng, uning ichiga kirib, yangi fayl ochib olamiz, va fayl formatini **.py** qi
 
 ### Hash Tag kommentariyasi
 
-**Hash Tag** - dastur yozish davomida kodning ma'lum qismlariga kommentariya qoldishish uchun ishlatiladi. Kommentariya qo'shish bir qarashda keraksiz narsadek ko'rinadi, lekin dastur judayam kattalashganda, kodning ma'lum qismlari nima uchun yozilganini boshqa dasturchilar osonroq tushunishi uchun qoldirib ketiladi. Undan tashqari, vaqtinchalik keraksiz kodlarni shunchaki kommentariyaga olib qo'yiladi.
+**Hash Tag** - dastur yozish davomida kodning ma'lum qismlariga kommentariya qoldishish uchun ishlatiladi. Kommentariya qo'shish bir qarashda keraksiz narsadek ko'rinadi, lekin dastur judayam kattalashganda, kodning ma'lum qismlari nima uchun yozilganini boshqa dasturchilar osonroq tushunishi uchun qoldirib ketiladi. Undan tashqari, vaqtinchalik keraksiz kodlarni shunchaki kommentariyaga olib qo'yiladi.<br>
 ![1772539405137](images/lesson2/1772539405137.png)
 
 
