@@ -68,6 +68,7 @@ Topshiriq javobi quyidagi savollarga javob berishi kerak:
 Ushbu javob guruh telegram gruppasidagi **Vazifalar** bo'limiga jo'natilishi lozim.
 *(Telegram guruhdagi boshqa o'quvchilarning topgan dastur misolini ishlatish mumkin emas)*.
 
- [Keyingi Dars](lesson2.md)
+[Keyingi Dars](lesson2.md)
+<br>
 [Asosiy sahifa](../README.md)
 
