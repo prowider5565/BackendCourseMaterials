@@ -17,11 +17,17 @@ So'ng, uning ichiga kirib, yangi fayl ochib olamiz, va fayl formatini **.py** qi
 ![1772538473330](images/lesson2/1772538473330.png)
 
 ### VS Code Dasturini o'rnatish
-![VS Code ko'rinishi](/foundation/images/lesson2/image.png)
+
 #### VS Code nima?
 
-**VS Code** - Visual Studio Code — bu **Microsoft** tomonidan yaratilgan, dasturchilar orasida eng mashhur **kod muharriri** (code editor) hisoblanadi. U bepul, yengil va juda ko'p dasturlash tillarini, jumladan Pythonni ham qo'llab-quvvatlaydi. VS Code'da kod yozish, xatolarni topish va dasturni ishga tushirish mumkin. [Rasmiy link](https://code.visualstudio.com/download) orqali VS code dasturini yuklab olamiz va kompyuterimizga o'rnatamiz
+**VS Code** - Visual Studio Code — bu **Microsoft** tomonidan yaratilgan, dasturchilar orasida eng mashhur **kod muharriri** (code editor) hisoblanadi. U bepul, yengil va juda ko'p dasturlash tillarini, jumladan Pythonni ham qo'llab-quvvatlaydi. VS Code'da kod yozish, xatolarni topish va dasturni ishga tushirish mumkin. [Rasmiy link](https://code.visualstudio.com/download) orqali VS code dasturini yuklab olamiz va kompyuterimizga o'rnatamiz<br>
 
+![VS Code ko'rinishi](images/lesson2/image.png)
+
+### Hash Tag kommentariyasi
+
+**Hash Tag** - dastur yozish davomida kodning ma'lum qismlariga kommentariya qoldishish uchun ishlatiladi. Kommentariya qo'shish bir qarashda keraksiz narsadek ko'rinadi, lekin dastur judayam kattalashganda, kodning ma'lum qismlari nima uchun yozilganini boshqa dasturchilar osonroq tushunishi uchun qoldirib ketiladi. Undan tashqari, vaqtinchalik keraksiz kodlarni shunchaki kommentariyaga olib qo'yiladi.
+![1772539405137](images/lesson2/1772539405137.png)
 
 
 
