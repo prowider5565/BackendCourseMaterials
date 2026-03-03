@@ -45,9 +45,14 @@ Python dasturlash tilida kod yozish uchun avval, python ilovasini kompyuterga yu
 
 ![Install Python](https://python.land/wp-content/uploads/2020/12/Install-Python-Windows.png)
 
-### Pythonda yoziladigan kodni ishga tushushi haqida
+## Python dasturlash tilida sodda kod
 
-Ixtiyoriy python kodi yozilganda kompyuter ushbu kodni bajarish uchun bir nechta qadamlardan o'tadi.
+Quyidagi rasmda python dasturlash tilida yozilgan kod ko'rsatilgan.
+![1772535607583](images/lesson1/1772535607583.png)
+Ushbu kodni python *interpretatori* orqali ishga tushirilganda kompyuterda bizga ko'rinmas bir nechta qadamlar bajariladi.
+![Understanding Python Code Flow From Source to Execution : | by Azan | Medium](https://miro.medium.com/v2/resize:fit:1400/1*uvwXR2gF-GzfKadBcdotrQ.gif)
+
+
 
 [Keyingi Dars](lesson2.md)
 
