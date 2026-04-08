@@ -29,5 +29,11 @@ So'ng, uning ichiga kirib, yangi fayl ochib olamiz, va fayl formatini **.py** qi
 **Hash Tag** - dastur yozish davomida kodning ma'lum qismlariga kommentariya qoldishish uchun ishlatiladi. Kommentariya qo'shish bir qarashda keraksiz narsadek ko'rinadi, lekin dastur judayam kattalashganda, kodning ma'lum qismlari nima uchun yozilganini boshqa dasturchilar osonroq tushunishi uchun qoldirib ketiladi. Undan tashqari, vaqtinchalik keraksiz kodlarni shunchaki kommentariyaga olib qo'yiladi.<br>
 ![1772539405137](images/lesson2/1772539405137.png)
 
+### O'zgaruvchilar
+
+O'zgaruvchilar dasturlashda eng kerakli va fundamental tushuncha hisoblanadi. O'zgaruvchilar matematikadagi **x, y** larga o'xshaydi. Ularning vazifasi ma'lumotni xotirada saqlab turish hisoblanadi. O'zgaruvchilarga istalgan nom berish mumkin. Nima uchun dastur davomida ma'lumotni xotirada saqlaymiz? Sababi, dastur davomida foydalanuvchi kiritadigan ma'lumotlar qayerdadir saqlanib turishi kerak. Bu orqali, osha ma'lumot bilan ishlash mumkin. Sodda misol, tasavvur qilamiz, bizda bitta dastur foydalanuvchi ma'lumotlarini ma'lum faylda saqlab qo'yishi zarur. Bu holatda, masalan, foydalanuvchi ismni, familiyasi va yoshini alohida qilib faylga saqlash kerak. Bu holatda, quyidagi rasmda keltirilganidek
+
+## Vazifa
+
 
 

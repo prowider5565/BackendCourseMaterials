@@ -1,6 +1,6 @@
-### Salom, ushbu sahifa *Python Backend Dasturlash Kursi* davomida ishlatilinadigan darslik, materiallar va havolalar saqlanadi. Ushbu kurs bo'yicha tajribali dasturchi va o'qituvchi Abdusamad Abdullaxanov dars olib boradi.
+### Ushbu sahifa *Python Backend Dasturlash Kursi* davomida ishlatilinadigan darslik, materiallar va havolalar saqlanadi.
 
-### Quyidagi linklarda har dars uchun Dasturlash kursi davomida kerak bo'ladigan materiallar to'plami joylashgan.
+### Quyidagi linklarda har dars uchun Dasturlash kursi davomida kerak bo'ladigan materiallar to'plami joylangan.
 
 # Python Foundation Kursi (3 oy)
 
@@ -8,8 +8,9 @@
 
 [Dars 1 - Python Dasturlash tili haqida](foundation/lesson1.md)
 
-Dars 2 -
+[Dars 2 - Birinchi Python dasturini yozish va muhit yaratib olish](foundation/lesson2.md)
 
+[Dars 3 - ]
 
 # Dars jarayoni haqida tushuncha
 
